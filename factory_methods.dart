@@ -21,7 +21,7 @@ void main() {
   var person1 = Person.create("Washington Kimani", 23);
   person1.displayInfo();
 
-  var person2 = Person.create("", 20);
+  var person2 = Person.create("Jonathan Roy", 20);
 
   person2.displayInfo();
 }
